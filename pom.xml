@@ -14,9 +14,9 @@
 	<name>gestao-vendas</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
-		<java.version>18</java.version>
 		<sonar.organization>gustavobm03</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+		<java.version>18</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
